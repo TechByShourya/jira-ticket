@@ -9,3 +9,7 @@ public class JiraTicketApplication {
 		SpringApplication.run(JiraTicketApplication.class, args);
 	}
 }
+
+
+
+

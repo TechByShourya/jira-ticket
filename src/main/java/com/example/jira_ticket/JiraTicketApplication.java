@@ -13,6 +13,10 @@ public class JiraTicketApplication {
 		int b= 4;
 		System.out.println(a-b);
 	}
+	public static void sum(){
+		int a =2,b=3;
+		System.out.println(a+b);
+	}
 }
 
 

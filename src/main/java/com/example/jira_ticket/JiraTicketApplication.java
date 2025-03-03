@@ -8,6 +8,11 @@ public class JiraTicketApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JiraTicketApplication.class, args);
 	}
+	public static void substtact(){
+		int a=5;
+		int b= 4;
+		System.out.println(a-b);
+	}
 	public static void sum(){
 		int a =2,b=3;
 		System.out.println(a+b);
